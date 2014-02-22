@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\KaspichanNumbers\bin\Debug\KaspichanNumbers.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\KaspichanNumbers\bin\Debug\KaspichanNumbers.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\KaspichanNumbers\obj\Debug\KaspichanNumbers.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\KaspichanNumbers\obj\Debug\KaspichanNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\MovingLetters\bin\Debug\MovingLetters.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\MovingLetters\bin\Debug\MovingLetters.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\MovingLetters\bin\Debug\MovingLetters.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\MovingLetters\obj\Debug\MovingLetters.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\MovingLetters\obj\Debug\MovingLetters.pdb

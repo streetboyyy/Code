@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

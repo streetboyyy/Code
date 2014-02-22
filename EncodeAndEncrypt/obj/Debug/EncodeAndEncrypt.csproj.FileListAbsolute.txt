@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\EncodeAndEncrypt\bin\Debug\EncodeAndEncrypt.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\EncodeAndEncrypt\obj\Debug\EncodeAndEncrypt.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\EncodeAndEncrypt\obj\Debug\EncodeAndEncrypt.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\EncodeAndEncrypt\obj\Debug\EncodeAndEncrypt.pdb

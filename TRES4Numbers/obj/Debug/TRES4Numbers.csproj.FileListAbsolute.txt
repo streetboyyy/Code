@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\TRES4Numbers\bin\Debug\TRES4Numbers.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\TRES4Numbers\bin\Debug\TRES4Numbers.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\TRES4Numbers\bin\Debug\TRES4Numbers.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\TRES4Numbers\obj\Debug\TRES4Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\TRES4Numbers\obj\Debug\TRES4Numbers.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\TRES4Numbers\obj\Debug\TRES4Numbers.pdb

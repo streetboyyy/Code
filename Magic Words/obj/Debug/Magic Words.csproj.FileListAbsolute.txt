@@ -1,0 +1,5 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Magic Words\bin\Debug\Magic Words.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Magic Words\bin\Debug\Magic Words.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Magic Words\bin\Debug\Magic Words.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Magic Words\obj\Debug\Magic Words.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Magic Words\obj\Debug\Magic Words.pdb

@@ -1,0 +1,6 @@
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Special Value\bin\Debug\Special Value.exe.config
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Special Value\bin\Debug\Special Value.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Special Value\bin\Debug\Special Value.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Special Value\obj\Debug\Special Value.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Special Value\obj\Debug\Special Value.exe
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Special Value\obj\Debug\Special Value.pdb

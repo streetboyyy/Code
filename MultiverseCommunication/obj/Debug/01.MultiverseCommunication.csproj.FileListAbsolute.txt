@@ -1,0 +1,5 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\MultiverseCommunication\bin\Debug\MultiverseCommunication.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\MultiverseCommunication\bin\Debug\MultiverseCommunication.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\MultiverseCommunication\bin\Debug\MultiverseCommunication.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\MultiverseCommunication\obj\Debug\MultiverseCommunication.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\MultiverseCommunication\obj\Debug\MultiverseCommunication.pdb

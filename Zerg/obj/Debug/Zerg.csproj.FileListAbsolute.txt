@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Zerg\bin\Debug\Zerg.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Zerg\bin\Debug\Zerg.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Zerg\bin\Debug\Zerg.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Zerg\obj\Debug\Zerg.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Zerg\obj\Debug\Zerg.pdb
+C:\Users\Toshiba\documents\visual studio 2013\Projects\Exam-Preparation-2\Zerg\obj\Debug\Zerg.csprojResolveAssemblyReference.cache
